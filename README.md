@@ -14,3 +14,8 @@
 
   `sudo apt-get install default-jdk`
 
+### Fontes: 
+
+* **TecAdmin.net**: [How to Setup Selenium with ChromeDriver on Ubuntu 18.04 & 16.04](https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/)
+
+  
